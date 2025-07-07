@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>I330 Ad and Tracker Blocker</title>
+    <style>
+      body { font-family: sans-serif; padding: 10px; width: 220px; }
+      h3 { color: #2b7a78; }
+    </style>
+  </head>
+  <body>
+    <h3>🛡️ Privacy Extension Active</h3>
+    <p>Blocking known trackers...</p>
+    <p>Includes domains like:</p>
+    <ul>
+      <li>doubleclick.net</li>
+      <li>facebook.net</li>
+      <li>scorecardresearch.com</li>
+    </ul>
+  </body>
+</html>
